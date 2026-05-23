@@ -1,3 +1,6 @@
+create database StudentManagement;
+use StudentManagement;
+
 -- bài tập 1: sinh viên và lớp học
 create table class (
     classid varchar(20) primary key,    
